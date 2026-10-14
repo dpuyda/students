@@ -1,3 +1,3 @@
 # My students project
 
-Banana and apple and peach!
+Banana and pinapple!
